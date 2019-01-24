@@ -42,11 +42,11 @@
 
         <!-- Title Page -->
         <section class="bg-title-page p-t-50 p-b-40 flex-col-c-m" style="background-image: url(images/heading-pages-02.jpg);">
-            <h2 class="l-text2 t-center">
-                Mujer
+            <h2 class="l-text2 t-center ">
+                Industria
             </h2>
             <p class="m-text13 t-center">
-                Nueva colección de moda femenina
+               
             </p>
         </section>
 
@@ -71,19 +71,19 @@
 
                                 <li class="p-t-4">
                                     <a href="#" class="s-text13">
-                                        Mujeres
+                                        Ventanas
                                     </a>
                                 </li>
 
                                 <li class="p-t-4">
                                     <a href="#" class="s-text13">
-                                        Hombres
+                                        Hornos
                                     </a>
                                 </li>
 
                                 <li class="p-t-4">
                                     <a href="#" class="s-text13">
-                                        Niños
+                                        Herramientas
                                     </a>
                                 </li>
 

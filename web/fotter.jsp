@@ -59,7 +59,7 @@
 
                     <li class="p-b-9">
                         <a href="#" class="s-text7">
-                            Gafas de sol
+                            Accesosrios
                         </a>
                     </li>
                 </ul>
